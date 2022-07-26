@@ -1,0 +1,7 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Space+Mono:ital@1&display=swap');
+
+/* Variable CSS */
+:root {
+    --body-font: 'Poppins', sans-serif;
+}
